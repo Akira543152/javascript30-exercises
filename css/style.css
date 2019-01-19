@@ -32,6 +32,10 @@ body, html {
   text-shadow: 0 0 .5rem #000000;
 }
 
+.key2 {
+  width: 15rem;
+}
+
 .playing {
   transform: scale(1.1);
   border-color: #ffc600;
